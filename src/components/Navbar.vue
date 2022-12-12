@@ -9,11 +9,11 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-          <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
-          <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
-          <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-          <li class="nav-item"><a class="nav-link" href="#team">Team</a></li>
-          <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+          <li class="nav-item"><a class="nav-link" href="#services">회사소개</a></li>
+          <li class="nav-item"><a class="nav-link" href="#portfolio">포트폴리오</a></li>
+          <li class="nav-item"><a class="nav-link" href="#about">제작과정</a></li>
+<!--          <li class="nav-item"><a class="nav-link" href="#team">Team</a></li>-->
+          <li class="nav-item"><a class="nav-link" href="#contact">견적문의</a></li>
         </ul>
       </div>
     </div>

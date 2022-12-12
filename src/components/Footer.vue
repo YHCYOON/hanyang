@@ -2,20 +2,18 @@
   <footer class="footer py-4">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-lg-4 text-lg-start">한양인팩</div>
-        <div class="col-lg-4 my-3 my-lg-0">
-          <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-          <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-          <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+        <div class="col-lg-6 text-lg-start">
+          <img src="/assets/img/footer-logo.svg">
         </div>
-        <div class="col-lg-4 text-lg-end">
+        <div class="col-lg-6 text-lg-end">
           <div class="text-decoration-none">
-            경기도 김포시 승가로 76번길 29 대표 윤도상
+            경기도 김포시 승가로 76번길 29 | 대표 윤도상 | 사업자등록번호 : 122-03-17423
           </div>
           <div class="text-decoration-none">
+            E-mail : yds2319@hanmail.net | Tel : 031-997-9021 | Fax : 031-997-8348
           </div>
           <div class="text-decoration-none">
-            경기도 김포시 승가로 76번길 29
+            2022 Copywrite (c) hanyanginpack.com All rights are reserved
           </div>
         </div>
       </div>

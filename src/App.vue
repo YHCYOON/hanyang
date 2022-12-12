@@ -4,7 +4,7 @@
   <Service/>
   <Portfolio/>
   <About/>
-  <Team/>
+<!--  <Team/>-->
   <Clients/>
   <Contact/>
   <Footer/>
@@ -245,7 +245,7 @@ import Masthead from '@/components/Masthead'
 import Service from '@/components/Service'
 import Portfolio from '@/components/Portfolio'
 import About from '@/components/About'
-import Team from '@/components/Team'
+// import Team from '@/components/Team'
 import Clients from '@/components/Clients'
 import Contact from '@/components/Contact'
 import Footer from '@/components/Footer'
@@ -257,7 +257,7 @@ export default {
     Service,
     Portfolio,
     About,
-    Team,
+    // Team,
     Clients,
     Contact,
     Footer
