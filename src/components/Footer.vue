@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-6 text-lg-start">
-          <img src="/assets/img/footer-logo.svg">
+          <img src="@/assets/img/footer-logo.svg">
         </div>
         <div class="col-lg-6 text-lg-end">
           <div class="text-decoration-none">
